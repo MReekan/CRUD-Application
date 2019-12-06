@@ -1,0 +1,36 @@
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.deps.json
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.runtimeconfig.json
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.runtimeconfig.dev.json
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.dll
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.pdb
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.Views.dll
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\bin\Debug\netcoreapp2.2\Kelaniya University.Views.pdb
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.csprojAssemblyReference.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.csproj.CoreCompileInputs.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.RazorAssemblyInfo.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.RazorAssemblyInfo.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.AssemblyInfoInputs.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.AssemblyInfo.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.TagHelpers.input.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.TagHelpers.output.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.RazorCoreGenerate.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.RazorTargetAssemblyInfo.cache
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.RazorTargetAssemblyInfo.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.Views.pdb
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.dll
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.pdb
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Kelaniya University.csproj.CopyComplete
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
