@@ -6,6 +6,15 @@
     <RootNamespace>Kelaniya_University</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Migrations\20191204082356_MaxLengthOnNames.cs" />
+    <Compile Remove="Migrations\20191204082356_MaxLengthOnNames.Designer.cs" />
+    <Compile Remove="Migrations\20191207055908_ColumnFirstName.cs" />
+    <Compile Remove="Migrations\20191207055908_ColumnFirstName.Designer.cs" />
+    <Compile Remove="Migrations\20191207064401_ColumnFirstName.cs" />
+    <Compile Remove="Migrations\20191207064401_ColumnFirstName.Designer.cs" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
