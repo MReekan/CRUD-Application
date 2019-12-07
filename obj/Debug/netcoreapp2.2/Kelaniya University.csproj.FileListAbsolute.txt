@@ -34,3 +34,8 @@ E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2
 E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
 E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
 E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
+E:\NetCoreProjects\Kelaniya University\Kelaniya University\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
